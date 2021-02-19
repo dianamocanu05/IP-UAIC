@@ -3,7 +3,9 @@ package com.company;
 public class Circle extends Shape{
     private double radius;
     private final double PI = 3.145;
-    public Circle(){}
+    public Circle(){
+        System.out.println("Constructing a circle...");
+    }
 
     public void setRadius(double otherRadius)
     {

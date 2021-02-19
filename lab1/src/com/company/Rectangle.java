@@ -5,7 +5,7 @@ public class Rectangle extends Shape{
     private double height;
     private double width;
 
-    public Rectangle(){};
+    public Rectangle(){System.out.println("Constructing a rectangle...");};
     public void setHeight(double height)
     {
         this.height = height;

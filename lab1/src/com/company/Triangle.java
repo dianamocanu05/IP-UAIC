@@ -5,7 +5,7 @@ public class Triangle extends Shape{
     private double base;
     private double height;
 
-    public Triangle(){};
+    public Triangle(){System.out.println("Constructing a triangle...");};
     public void setBase(double otherBase)
     {
         //Triangle t = new Triangle();
