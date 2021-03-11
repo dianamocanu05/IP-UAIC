@@ -1,6 +1,6 @@
 package com.company;
 
-public class Client extends Notificare, Formular, Platforma {
+public class Client extends Platforma {
 
   public String nume;
 

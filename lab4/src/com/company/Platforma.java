@@ -12,7 +12,7 @@ public class Platforma {
 
   public Weather vreme;
 
-  public Bool disponibilitate;
+  public Boolean disponibilitate;
 
   public Void setDistanta(Double distanta) {
   return null;
@@ -54,11 +54,11 @@ public class Platforma {
   return null;
   }
 
-  public Void setDisp(Bool disponibilitate) {
+  public Void setDisp(Boolean disponibilitate) {
   return null;
   }
 
-  public Bool getDisp() {
+  public Boolean getDisp() {
   return null;
   }
 

@@ -14,7 +14,7 @@ public class Algoritm extends Platforma {
 
   public Boolean disponibilitate;
 
-  public void Algoritm(Double distanta, Donator donator, Primitor primitor, Double timp_de_livrare, Weather vreme, Bool disponibilitate) {
+  public void Algoritm(Double distanta, Donator donator, Primitor primitor, Double timp_de_livrare, Weather vreme, Boolean disponibilitate) {
   }
 
   public void VogelApproximation() {
