@@ -21,3 +21,5 @@ Team members:
   
   Integration team: Mocanu Diana, Ciuchilan Andreea, Pricop Ana, Olaru Andreea.
   ScrumMaster : Mocanu Diana
+  
+  Trello board : https://trello.com/b/oDSYo6Q1/lab5
